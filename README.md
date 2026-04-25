@@ -14,3 +14,5 @@ A simple full-stack web application to manage tasks using CRUD operations with N
 ## How to Run
 1. Run backend using: node server.js
 2. Open frontend/index.html in browser
+
+
